@@ -1,0 +1,10 @@
+#folders
+.idea/
+
+mapper-fraud-detection/data/
+mapper-fraud-detection/.ipynb_checkpoints/
+
+basket-recommendation/*.csv
+basket-recommendation/.ipynb_checkpoints/
+
+visualizations/.ipynb_checkpoints/
